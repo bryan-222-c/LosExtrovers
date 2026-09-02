@@ -1,0 +1,22 @@
+{
+  "short_name": "LosExtrovers",
+  "name": "Los Extrovers: Aventura Cinemática Saber 11",
+  "description": "Aprende Física Mecánica y prepárate para el ICFES Saber 11 con la aventura de los Extrovers.",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/192/physics.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/physics.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0d1117",
+  "theme_color": "#38bdf8",
+  "display": "standalone",
+  "orientation": "portrait"
+}

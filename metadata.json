@@ -1,0 +1,6 @@
+{
+  "name": "Los Extrovers: Física Saber 11",
+  "description": "Una PWA educativa interactiva de Física con 5 módulos y 34 niveles interactivos tipo pruebas Saber 11.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

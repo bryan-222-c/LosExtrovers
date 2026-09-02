@@ -1,0 +1,160 @@
+pág. 1
+I.E JOSEFA CAMPOS
+
+-- 1 of 8 --
+
+pág. 2
+¿QUÉ CONTIENE ESTE MÓDULO?
+El presente modulo contiene 10 preguntas de la prueba de Ciencias Naturales
+de Saber 11° del componente físico sobre la mecánica clásica, las cuales fueron
+tomadas del cuadernillo de preguntas Saber 11° del MEN y el ICFES del 2018,
+y también del libro taller Saber 11° de Formarte.
+Estas preguntas serán útiles para que fortalezcas tus competencias en ciencias
+naturales (uso comprensivo del conocimiento científico, explicación de
+fenómenos e indagación), y para que te familiarices y conozcas el tipo de
+preguntas que aparecen en la prueba saber 11.
+Recuerda: Los exámenes Saber evalúan competencias, por tanto, en las
+preguntas encontrarás una situación (que debes tratar de entender) en la que
+tendrás que aplicar tus conocimientos para tomar decisiones y elegir la mejor
+respuesta.
+
+-- 2 of 8 --
+
+pág. 3
+INSTITUCIÓN EDUCATIVA JOSEFA CAMPOS
+BELLO-ANTIOQUIA
+MECÁNICA CLÁSICA: Cinemática y Dinámica.
+ESTUDIANTE: Elija un elemento. GRADO: Elija un elemento.
+Fecha de entrega: Fecha de recibo: Período: 02
+En cada una de las preguntas encontrarás una situación en la que tendrás que aplicar tus
+conocimientos para tomar decisiones y elegir entre las cuatro opciones la mejor respuesta.
+Muchos éxitos.
+CINEMÁTICA
+Pregunta 1.
+En tres instantes diferentes, un estudiante
+dibuja el diagrama de cuerpo libre para una
+piedra que cae en un estanque de agua, como
+se muestra en la siguiente figura.
+Si el estudiante mide la aceleración de la piedra
+después del tercer instante, se espera que su
+magnitud, respecto a los otros instantes, sea
+A. ☐ mayor que la del primer instante,
+porque el peso hace que la piedra se acelere hacia abajo.
+B. ☐ mayor que el primer instante, porque el peso de la piedra disminuye cuando la fuerza
+de resistencia comienza a aumentar.
+C. ☐ constante, porque la aceleración de la piedra siempre es igual que la aceleración de
+la gravedad.
+D. ☐ nula, porque después del tercer instante, el peso de la piedra y la fuerza de
+resistencia se cancelan.
+Pregunta 2.
+Un estudiante sopla una pelota por un tubo vertical como muestra la
+figura.
+La pelota sube aceleradamente por el tubo. Esto ocurre porque
+
+-- 3 of 8 --
+
+pág. 4
+A. ☐el peso de la pelota cambia cuando el estudiante sopla aire por el tubo.
+B. ☐la fuerza que ejerce el aire que sopla el estudiante es igual que el peso de la pelota.
+C. ☐el peso de la pelota es mayor que la fuerza del aire que sopla el estudiante.
+D. ☐la fuerza que ejerce el aire que sopla el estudiante es mayor que el peso de la pelota.
+Pregunta 3.
+Un carro de masa M, se mueve sobre una superficie horizontal con velocidad V1 en la dirección
+que ilustra la figura (1). En cierto instante un objeto de masa m que se mueve perpendicular
+a la superficie, cae en el interior del carro y continúan moviéndose los dos como se muestra
+en la figura (2). Desprecie el rozamiento entre la superficie de la carretera y el carro.
+La rapidez del carro después de que el objeto cae dentro de él
+A. ☐disminuye porque la cantidad de masa que se desplaza horizontalmente aumenta.
+B. ☐aumenta porque durante el choque el carro adquiere la velocidad del objeto que cae.
+C. ☐ aumenta porque al caer el objeto le da un impulso adicional al carro.
+D. ☐ no cambia porque el momento del objeto es perpendicular al del carro.
+Pregunta 4.
+Un estudiante de undécimo afirma que cuando se bajó del bus escolar casi se cae de este,
+pues aun se encontraba en movimiento. El argumento científico para dar explicación a este
+fenómeno se relaciona con la
+A. ☐ley de la inercia y la conservación del movimiento.
+B. ☐inercia que tenía su cuerpo al pisar el suelo.
+C. ☐ley de acción y reacción de Newton.
+D. ☐ley del movimiento de Newton.
+
+-- 4 of 8 --
+
+pág. 5
+Pregunta 5.
+Un sistema de dos cuerpos está sometido a la acción de tres fuerzas: Peso, Tensión y Normal.
+Según la información anterior, el sistema que NO está sometido a la acción de los tres tipos
+de fuerza es:
+A. ☐Gráfica A. B. ☐Gráfica B.
+C. ☐Gráfica C. D. ☐Gráfica D.
+Pregunta 6.
+Se conoce como máquina de Atwood a un dispositivo que consta de una polea
+sin fricción y de masa despreciable de la cual cuelgan distintas masas de forma
+vertical, como se muestra en la figura.
+Si m1= 10 Kg, entonces, para que el sistema se encuentre en equilibrio debe
+cumplirse que:
+A. ☐ m2 = 10kg B. ☐ m2 = 15kg
+C. ☐ m2 = 1kg D. ☐ m2 = 20kg
+
+-- 5 of 8 --
+
+pág. 6
+Pregunta 7.
+Cuando se aplica una fuerza sobre un objeto que
+está unido a un eje de giro se genera un torque,
+también conocido como momento de torsión. El
+torque creado por la fuerza depende de la
+magnitud de esta y del tamaño del brazo
+(distancia entre el eje de giro y el punto de
+aplicación de la fuerza).
+El torque (T) es igual al producto de la fuerza aplicada (F), la distancia (d) entre el punto de
+aplicación de la fuerza al punto de rotación y el seno del ángulo que forman los vectores
+distancia y fuerza, así: T = F d sin θ
+El torque ejercido sobre el tornillo de la figura, cuando le aplicamos una fuerza de 23
+kilogramos fuerza (Kgf) con una llave que mide 100 milímetros en un ángulo de 90° es:
+A. ☐ 23 Kgf.cm B. ☐ 230 Kgf.mm
+C. ☐ 2,3 Kgf.cm D. ☐ 2.300 Kgf.mm
+Pregunta 8.
+La distancia del centro del sube y baja a la cual debe sentar la niña, con relación a la del gato
+para que el sistema esté en equilibrio rotación es:
+A. ☐ 10 veces mayor. B. ☐ 2,5 veces mayor.
+C. ☐ 10 veces menor. D. ☐ 2,5 veces menor.
+
+-- 6 of 8 --
+
+pág. 7
+Preguntas 9.
+La figura ilustra una jugada de golf que se conoce con el nombre de “hoyo en uno”; Esta
+consiste en lanzar la pelota bajo una trayectoria parabólica y que en un solo tiro caiga en el
+hoyo.
+En un campeonato de golf, en el hoyo #14, tres jugadores prueban lanzando la pelota con
+diferentes ángulos, como se indica a continuación:
+• El primer jugador hace un lanzamiento con una velocidad de 39,2 m/s a 15° con
+respecto a la horizontal, sin alcanzar el hoyo en uno.
+• El segundo jugador aplica la misma velocidad a la pelota, pero su ángulo fue de 75°.
+• El tercer jugador hace un lanzamiento con la misma velocidad de los anteriores, pero
+con ángulo de 45°, acertando el hoyo en uno.
+Una información adicional sugiere que la pelota lanzada por los dos primeros jugadores cae a
+la misma distancia; esta afirmación es:
+A. ☐ Verdadera, porque al haber lanzado las pelotas con la misma velocidad, el alcance
+horizontal es el mismo para ángulos que suman 90°.
+B. ☐ Falso, porque, aunque hayan lanzado las pelotas con la misma velocidad, la
+inclinación inicial con que se lanzaron fue diferente.
+C. ☐ Verdadero, porque al haber lanzado las pelotas con la misma velocidad esto debe
+garantizar que tengan el mismo alcance horizontal.
+D. ☐ Falso, porque la aceleración de la gravedad afecta de manera diferente cada
+lanzamiento
+
+-- 7 of 8 --
+
+pág. 8
+Pregunta 10.
+Se lanza verticalmente hacia arriba una pelota en la superficie de la Tierra, con una velocidad
+inicial de 16 m/s. El tiempo que tarda la pelota en alcanzar la atura máxima es:
+Nota: Vf=vi-gt
+A. ☐ 1 s.
+B. ☐ 1,6 s
+C. ☐ 2 s.
+D. ☐ 2,6 s
+
+-- 8 of 8 --
+
